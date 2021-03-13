@@ -1,4 +1,4 @@
-objectid,filename,youtubeid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+objectid,filename,youtubeid,title,creator,date,description,genre,label,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
 vinyl001,B52s.jpg,,The B-52's,The B-52's,1979-07-06,,,,,,,,,image/jpeg,,,
 vinyl002,BackPocket.jpg,,Back Pocket,Vulfpeck,,,,,,,,,,image/jpeg,,,
 vinyl003,BonIver.jpg,,Bon Iver,Bon Iver,2011-06-17,,,,,,,,,image/jpeg,,,
@@ -14,4 +14,4 @@ vinyl012,ShepherdsDog.jpg,,The Shepherd's Dog,Iron & Wine,2007-09-25,,,,,,,,,ima
 vinyl013,SomethingElse.jpg,,Somethin' Else,Cannonball Adderly,1958-08,,,,,,,,,image/jpeg,,,
 vinyl014,TakinOff.jpg,,Takin' Off,Herbie Hancock,1962,,,,,,,,,image/jpeg,,,
 vinyl015,ViewtheWholeWorld.jpg,,Little Creatures,Talking Heads,1985-06-10,,,,,,,,,image/jpeg,,,
-vinyl016,YearstoBurn.jpg,,Years to Burn,Calexico and Iron & Wine,2019-06-14,,,,,,,,,,,,
+vinyl016,YearstoBurn.jpg,,Years to Burn,Calexico and Iron & Wine,2019-06-14,,Alternative Rock,Sub Pop,47.61321129,-122.3406037,,,,,,,
