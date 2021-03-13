@@ -1,7 +1,7 @@
 field,display_name,browse_link
 title,Title,
-creator,Creator,
-date,Date Created,
+creator,Artist,
+date,Release Date,
 description,Description,
 genre,Genre,true
 label,Record Label
