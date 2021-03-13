@@ -3,8 +3,8 @@ title,Title,
 creator,Creator,
 date,Date Created,
 description,Description,
-subject,Subjects,true
-location,Location
+genre,Genre,true
+label,Record Label
 latitude,Latitude
 longitude,Longitude
 source,Source
