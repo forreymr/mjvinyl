@@ -20,4 +20,4 @@ This website is for personal use and personal professional development.  All the
 
 Shout out to Olivia Wilkie and Devin Becker from the University of Idaho who gave a great presenation on Collection Builder at the 2019 PNLA confernce.  I have come up with so many ideas on how to use this framework since seeing your talk.  
 
-Check out my <a href="www.linkedin.com/in/meredith-forrey ">LinkeIn </a> 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="meredith-forrey"><a class="LI-simple-link" href='https://www.linkedin.com/in/meredith-forrey?trk=profile-badge'>Meredith Forrey (she/her)</a></div>
