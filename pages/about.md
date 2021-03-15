@@ -19,3 +19,5 @@ My parnter and I have a decent sized collection of vinyl, and have always talked
 This website is for personal use and personal professional development.  All the images features on this website were photographs taken by me of albums that my partner and I own.  I do not own the copyright to any of the original cover art, and, as such, images from this site should not be copied for use elsewhere.  
 
 Shout out to Olivia Wilkie and Devin Becker from the University of Idaho who gave a great presenation on Collection Builder at the 2019 PNLA confernce.  I have come up with so many ideas on how to use this framework since seeing your talk.  
+
+Check out my LinkedIn Page here: www.linkedin.com/in/meredith-forrey
